@@ -1,7 +1,7 @@
 # Maintainer: Markus Meissner <coder@safemailbox.de>
 
 pkgname=asus-fan-dkms-git 
-pkgver=v0.9.1.r102.g9b65a13
+pkgver=v0.9.1.r103.g3c93c30
 pkgrel=1
 _realname=asus-fan
 _modname=asus_fan
