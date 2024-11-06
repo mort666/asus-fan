@@ -70,7 +70,7 @@ struct asus_fan_driver {
   const char *name;
   struct module *owner;
 
-  int (*probe)(struct platform_device *device);
+  void (*probe)(struct platform_device *device);
 
   struct platform_driver platform_driver;
   struct platform_device *platform_device;
